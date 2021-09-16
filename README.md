@@ -5,6 +5,12 @@
   </a>
 </p>
 
+![Lang](https://img.shields.io/badge/lang-javascript-yellowgreen)
+![Framework](https://img.shields.io/badge/framework-gatsbyjs-purple)
+
+![IDE](https://img.shields.io/badge/ide-vscode-blue)
+![Hydra](https://img.shields.io/badge/hail-hydra-red)
+
 ## 🚀 이곳은 lattepapa의 개인 블로그 레포지토리입니다.
 
 1.  **[Gatsby's default starter](https://www.gatsbyjs.com/docs/gatsby-starters/)**
